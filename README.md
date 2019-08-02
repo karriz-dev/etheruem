@@ -1,2 +1,8 @@
-# etheruem
-Etheruem 실습을 위한 공유 자료
+#Ethereum Study
+ - Ethereum Network
+   Virtual Box -  https://www.virtualbox.org/
+   Vagrant - https://www.vagrantup.com/
+   Visual Studio Code - https://code.visualstudio.com/
+ - Smart Contract
+   Remix - http://remix.ethereum.org
+   Metamask - https://metamask.io/
